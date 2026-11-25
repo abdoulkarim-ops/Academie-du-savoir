@@ -1,0 +1,32 @@
+{
+  "name": "L’Académie du savoir",
+  "short_name": "Académie",
+  "description": "Tous les cours de français, de la 6e à la Terminale : cours, exercices et quiz.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F1EA",
+  "theme_color": "#1E3FAE",
+  "icons": [
+    {
+      "src": "ads-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ads-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ads-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
